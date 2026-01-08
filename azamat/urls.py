@@ -1,13 +1,2 @@
-2983147
-типы данных 2
-измен
-list
-dict
-set
-неиз
-str
-int
-float
-bool
-tuple
-
+for i in range (1, 8):
+    print(i)
